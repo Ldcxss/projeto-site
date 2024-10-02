@@ -1,0 +1,21 @@
+*{
+    transition-duration: 200ms;
+}
+h1{
+    text-align: center;
+}
+form{
+
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+button{
+    padding: 6px;
+    border-radius: 10px;
+}
+button:hover{
+    border-color: blue;
+    color: blue;
+}
